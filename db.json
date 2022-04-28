@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "productType": "Brand New",
+      "price": 50,
+      "comment": "This is a fresh apple. ",
+      "date": "2022-04-27T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Potatoes",
+      "category": "Vegetables",
+      "productType": "Brand New",
+      "price": 150,
+      "comment": "These are fresh potatoes.",
+      "date": "2022-04-27T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "productType": "Brand New",
+      "price": 800,
+      "comment": "This is a new banana",
+      "date": "2022-04-27T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "productType": "Brand New",
+      "price": 50000,
+      "comment": "This is an apple. \n",
+      "date": "2022-04-27T22:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
